@@ -1,0 +1,13 @@
+@media (min-height:121px) and (max-width:318px) {
+    #Main-Card{
+        width: 80%;
+        height: 70%;
+    }
+    #Para{
+        font-size: 4vmin;
+        width: auto;
+    }
+    #Heading{
+        font-size: 6vmin;
+    }
+}
